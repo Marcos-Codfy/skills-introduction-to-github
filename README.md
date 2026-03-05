@@ -35,3 +35,13 @@
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+
+---
+
+## 🎓 Certificações e Cursos
+
+Neste repositório, além dos projetos, mantenho o registro do meu aprendizado contínuo:
+
+* **Introdução ao GitHub**: Concluído através da própria plataforma do GitHub, abordando os conceitos fundamentais de repositórios, issues e pull requests.
+* **Git e Versionamento (Plataforma ADA)**: Curso focado em fluxos de trabalho profissionais, comandos avançados e gestão de versões.
+    * [📄 Visualizar Certificado de Git e Versionamento](./Git%20e%20Versionamento.pdf)
